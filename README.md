@@ -15,7 +15,7 @@ Automatically test all your WireGuard VPN configs and pick the best route to you
 
 ## 🛠️ Usage
 
-1. Place your WireGuard `.conf` files in the `configs/` folder (these are git-ignored for safety).
+1. Place your WireGuard `.conf` files in the `configs/` folder.
 2. Run the tool and enter your target server IP or hostname (e.g., Faceit, CS2, Valorant, etc.).
 3. The script will:
     - Test direct (non-VPN) and all VPN routes

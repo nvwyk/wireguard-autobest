@@ -31,7 +31,7 @@ node index.js 185.25.180.1   # Replace with your game server IP or hostname
 
 Or run without arguments and enter the target interactively.
 
-> **Note:** Run as Administrator for VPN switching to work. Only `configs/*` is tracked; your `.conf` files stay private.
+> **Note:** Run as Administrator for VPN switching to work.
 
 ---
 

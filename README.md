@@ -10,7 +10,6 @@ Automatically test all your WireGuard VPN configs and pick the best route to you
 - **Measures ping and traceroute** for each route
 - **Starts/stops VPN tunnels automatically** (admin required)
 - **Highlights the best route** for gaming
-- **Keeps your .conf files private** (never committed)
 
 ---
 
